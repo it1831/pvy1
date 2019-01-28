@@ -1,1 +1,1 @@
-# pvy1
+Stránky o programovém vybavení
